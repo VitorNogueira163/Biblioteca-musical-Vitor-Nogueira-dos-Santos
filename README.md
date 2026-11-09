@@ -57,6 +57,6 @@ Para garantir que o sistema funcione perfeitamente em telas menores, o projeto c
    ```
 2. Navegue até a pasta do projeto:
    ```bash
-   cd seu-repositorio
+   cd projeto
    ```
 3. Abra o arquivo `index.html` diretamente em qualquer navegador web.
